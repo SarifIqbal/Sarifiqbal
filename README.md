@@ -1,9 +1,11 @@
-- 🎓  I'm currently studying **Information Technology** at **Guru Tegh Bahadur Institute of Technology**, **New Delhi**.
+- 🎓 I'm a final year student at **Guru Tegh Bahadur Institute of Technology**, **New Delhi**.
 
-- 🌱 I’m currently learning **Data Structures & Algorithms**.
+- 🌱 Currently exploring **MERN Stack** and **Cybersecurity**.
 
-- 💬 Ask me about **DSA, Web & App Development, and AI-ML**.
+- 💬 Ask me about **Data Structures** & **Algorithms**, **OS**, **CN**, and **DBMS**.
 
-- 📫 You can shoot me an email @ **iqbalsarif.official@gmail.com**, I'll try to respond as soon as I can.
+- 🤜🏻 I love practicing questions on **HackerRank**, **GfG**, and **LeetCode**.
+
+- ✅ Solved **450+ DSA** Questions.
 
 - ⚡ Fun fact **I am Happy!!**
